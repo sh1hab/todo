@@ -1,6 +1,6 @@
 
-
-This is a Todo-List application
+## Todo
+This is a simple Todo-List application built with Electron , JQuery etc
 
 ## To Use
 

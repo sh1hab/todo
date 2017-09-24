@@ -1,0 +1,16 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "A minimal TodoList Application ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "todolist",
+    "JQuery",
+    "electron"
+  ],
+  "author": "sh1hab",
+  "license": "MIT"
+}
